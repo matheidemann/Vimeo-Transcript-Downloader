@@ -1,0 +1,19 @@
+# Ambiente virtual
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outros
+*.log
